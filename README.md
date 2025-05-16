@@ -95,13 +95,10 @@ Example
 
     Object.keys(dutchTranslation) // javascript
 
-let 
+
     let key: keyof typeof dutchTranslation;
     key='hello' | 'good morning' | 'difficult' | 'grandma'
 
     here type of defines the types of the object. 
     keyof defines the keys of the types of the dutchTranslation object. 
 
-
-
-Here typeof person : 
